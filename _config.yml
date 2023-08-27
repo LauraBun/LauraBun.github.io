@@ -6,7 +6,6 @@ With my previous customer-focused role I honed my communication skills which hav
   <br><br>
   <a href="https://www.linkedin.com/in/laura-bunel/">View My LinkedIn Profile</a> 
   
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
+theme:
 - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
