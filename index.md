@@ -4,12 +4,12 @@
 
 ### Python and Pandas
 
-[Analysis of a Hotel Booking Dataset](data-analysis-hotel-booking-project.ipynb)
-<img src="snip - hotel portfolio project.jpg">
+[Analysis of a Hotel Booking Dataset](/data-analysis-hotel-booking-project.ipynb)
+<img src="snip - hotel portfolio project.jpg"/>
 
 ---
-[Data Analysis BootCamp Portfolio](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Data Analysis BootCamp Portfolio](/Portfolio LauraB.pdf)
+<img src="Bootcamp snip.jpg"/>
 
 ---
 [Project 3 Title](http://example.com/)
