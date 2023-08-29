@@ -2,13 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Python and Pandas
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Analysis of a Hotel Booking Dataset](data-analysis-hotel-booking-project.ipynb)
+<img src="snip - hotel portfolio project.jpg">
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Data Analysis BootCamp Portfolio](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
