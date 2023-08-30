@@ -4,7 +4,7 @@
 
 ### Python and Pandas
 
-[Analysis of a Hotel Booking Dataset](/data-analysis-hotel-booking-project.ipynb)
+[Analysis of a Hotel Booking Dataset](https://www.kaggle.com/code/laurabu/data-analysis-hotel-booking-project/edit)
 <img src="snip - hotel portfolio project.jpg"/>
 
 ---
