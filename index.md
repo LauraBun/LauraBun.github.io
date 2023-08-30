@@ -4,7 +4,7 @@
 
 ### Python and Pandas
 
-[Analysis of a Hotel Booking Dataset](https://www.kaggle.com/code/laurabu/data-analysis-hotel-booking-project)
+<a href="[http://example.com/](https://www.kaggle.com/code/laurabu/data-analysis-hotel-booking-project)" target="_blank">Analysis of a Hotel Booking Dataset</a>
 <img src="snip - hotel portfolio project.jpg"/>
 
 ---
