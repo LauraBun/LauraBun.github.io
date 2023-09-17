@@ -4,12 +4,14 @@
 
 ### Python and Pandas
 
-<a href="https://www.kaggle.com/code/laurabu/data-analysis-hotel-booking-project" target="_blank">Analysis of a Hotel Booking Dataset</a>
+<a href="https://www.kaggle.com/code/laurabu/data-analysis-hotel-booking-project" target="_blank">Exploratory Data Analysis of a Hotel Booking Dataset</a>
 <img src="snip - hotel portfolio project.jpg"/>
 
 ---
 [Data Analysis BootCamp Portfolio](/Portfolio LauraB.pdf)
 <img src="Bootcamp snip.jpg"/>
+[Streaming Data - Individual Exploratory Data Analysis - Group Task](/Streaming Service Hackathon (1).ipynb)
+[Streaming Data - Group Presentation](/Netflix presentation.pptx)
 
 ---
 [SQL analysis of Covid Cases](/CovidCases PortfolioProject.sql)
