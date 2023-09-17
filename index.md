@@ -1,12 +1,12 @@
 ## Portfolio
-
+<!--
 ---
 
 ### Python and Pandas
 
 <a href="https://www.kaggle.com/code/laurabu/data-analysis-hotel-booking-project" target="_blank">Exploratory Data Analysis of a Hotel Booking Dataset</a>
 <img src="snip - hotel portfolio project.jpg"/>
-
+-->
 ---
 ### L4 Data Analysis Skill Bootcamp
 
@@ -32,7 +32,7 @@
 
 -->
 
-
+<!--
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
