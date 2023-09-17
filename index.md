@@ -10,7 +10,7 @@
 ---
 ### L4 Data Analysis Skill Bootcamp
 
-[Data Analysis BootCamp Portfolio](/Portfolio LauraB.pdf)
+[Data Analysis BootCamp Portfolio](/Portfolio LauraB.pptx)
 <img src="Bootcamp snip.jpg"/>
 [Streaming Data - Individual Exploratory Data Analysis - Group Task](/Streaming Service Hackathon (1).ipynb)
 [Streaming Data - Group Presentation](/Netflix presentation.pptx)
